@@ -1,0 +1,6 @@
+
+sudo apt reinstall nodejsl
+sudo apt reinstall npm
+
+
+
