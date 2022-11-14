@@ -43,7 +43,15 @@ WINDOWS:
 
 ### VS Code konfigurieren
 
-**Neues Theames**
+aus: https://www.youtube.com/watch?v=Nq-N6uZwGw0&t=508s
+German LanguagePack for Visual Studio
+Git Graph
+Auto Rename Tag
+Comment Anchors
+Prettier - Code formatter  (Muss in Einstellungen im DefaultFormatter eingestellt werden.)
+Live Preview
+ESLint, HTMLHint, Stylelint
+
 
 **Schnelle Tasten**
 Neues HTML Gerüst
