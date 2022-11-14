@@ -42,3 +42,10 @@ WINDOWS:
 ## konfiguration
 
 ### VS Code konfigurieren
+
+**Neues Theames**
+
+**Schnelle Tasten**
+Neues HTML Gerüst
+https://www.youtube.com/watch?v=kQ2HZg4Pl8g
+
