@@ -38,3 +38,7 @@ Im Terminal eingeben:
 WINDOWS:
 > https://git-scm.com/download/win
 
+
+## konfiguration
+
+### VS Code konfigurieren
